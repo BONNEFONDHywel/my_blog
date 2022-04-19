@@ -1,0 +1,7 @@
+div ol ul, div ol {
+  list-style-type: none;
+}
+
+h1 a, h2 a, h3 a, h4 a, ol a {
+  text-decoration: none;
+}

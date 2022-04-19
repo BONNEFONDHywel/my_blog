@@ -1,0 +1,11 @@
+h1, h2, h3, h4, h1 a, h2 a, h3 a, h4 a, i {
+  color: #6B9B8A;
+}
+
+body {
+  background-color: #F8F8F6;
+}
+
+p, label, ul li, ol a  {
+  color: #000000;
+}

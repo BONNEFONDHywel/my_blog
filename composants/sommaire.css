@@ -1,0 +1,30 @@
+li a {
+  color: #6B9B8A;
+  font-size: 20px;
+  display: block;
+  padding: 10px;
+}
+
+div ol {
+	display: table;
+	width: 425px;
+}
+
+li a:hover {
+  background-color: #000000;
+  border-radius: 10px;
+}
+
+.intro {
+  width: 1000px;
+  margin: 35px 35px;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 3px 3px 20px rgba(0, 0, 0, 0.6);
+  background-color: #F8F8F6;
+}
+
+.liste {
+  display: flex;
+  flex-flow: row wrap;
+}
